@@ -1,7 +1,7 @@
 /* CSS Document */
 #wrapper {
 width: 1024px;	
-height: 768px;
+height: 2000px;
 background-color:#BFBFBF;
 margin: 0 auto 0 auto;
 }
@@ -29,6 +29,10 @@ h1 {
 
 }
 
+#navigation {
+	margin: 0 auto 0 auto;
+}
+
 #navigation li {
 	font:24px Arial;
 	display:inline;
@@ -48,8 +52,9 @@ h1 {
 }
 
 #content {
-	width: 1024px;	
-	height: 490px;
+	width: 940px;	
+	height: 1740px;
+	margin: 0 auto 0 auto;
 }
 
 body {
@@ -57,18 +62,5 @@ body {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* CSS Document */
 
